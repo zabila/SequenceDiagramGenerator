@@ -1,0 +1,12 @@
+{
+  "name" : "sequencediagramgenerator",
+  "version-string" : "1.0.0",
+  "builtin-baseline" : "0ccb3d11406922bef1dcc29002f68f633a321f19",
+  "dependencies" : [ {
+    "name" : "qt5",
+    "version>=" : "5.15.9"
+  }, {
+    "name" : "benchmark",
+    "version>=" : "1.8.0"
+  } ]
+}
